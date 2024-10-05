@@ -1,0 +1,576 @@
+Adelonetria dubiosa Millidge, 1991 | Chile
+Agyneta adami (Millidge, 1991) | Brazil
+Agyneta albinotata (Millidge, 1991) | Colombia
+Agyneta albomaculata (Baert, 1990) | Ecuador (Galapagos Is.)
+Agyneta arida (Baert, 1990) | Ecuador (Galapagos Is.)
+Agyneta atra (Millidge, 1991) | Venezuela
+Agyneta brevis (Millidge, 1991) | Peru
+Agyneta castanea (Millidge, 1991) | Chile
+Agyneta cincta (Millidge, 1991) | Colombia
+Agyneta collina (Millidge, 1991) | Colombia
+Agyneta discolor (Millidge, 1991) | Colombia
+Agyneta disjuncta (Millidge, 1991) | Colombia
+Agyneta frigida (Millidge, 1991) | Colombia
+Agyneta fusca (Millidge, 1991) | Peru
+Agyneta galapagosensis (Baert, 1990) | Ecuador (Galapagos Is.), Brazil
+Agyneta hum Cajade, Rodrigues & Simó, 2023 | Brazil, Uruguay
+Agyneta lauta (Millidge, 1991) | Peru
+Agyneta luctuosa (Millidge, 1991) | Venezuela
+Agyneta mediocris (Millidge, 1991) | Colombia
+Agyneta mendosa (Millidge, 1991) | Colombia
+Agyneta montana (Millidge, 1991) | Ecuador
+Agyneta montivaga (Millidge, 1991) | Venezuela
+Agyneta oculata (Millidge, 1991) | Peru
+Agyneta opaca (Millidge, 1991) | Colombia
+Agyneta pinta (Baert, 1990) | Ecuador (Galapagos Is.)
+Agyneta plagiata (Banks, 1929) | Panama
+Agyneta prima (Millidge, 1991) | Colombia
+Agyneta propinqua (Millidge, 1991) | Peru, Brazil
+Agyneta propria (Millidge, 1991) | Ecuador
+Agyneta proxima (Millidge, 1991) | Colombia
+Agyneta silvae (Millidge, 1991) | Peru
+Agyneta straminicola (Millidge, 1991) | Colombia, Ecuador
+Agyneta transversa (Banks, 1898) | Mexico
+Agyneta unguiserrata Cajade, 2023 | Brazil, Uruguay
+Anodoration claviferum Millidge, 1991 | Brazil, Argentina
+Anodoration tantillum (Millidge, 1991) | Brazil
+Asemostera arcana (Millidge, 1991) | Costa Rica to Venezuela
+Asemostera daedalus Miller, 2007 | Costa Rica, Panama, Colombia
+Asemostera dianae Rodrigues & Brescovit, 2012 | Peru
+Asemostera enkidu Miller, 2007 | Colombia, Venezuela
+Asemostera involuta (Millidge, 1991) | Ecuador
+Asemostera janetae Miller, 2007 | Peru, Bolivia, Argentina
+Asemostera latithorax (Keyserling, 1886) | Brazil
+Asemostera pallida (Millidge, 1991) | Peru
+Asemostera tacuapi Rodrigues, 2007 | Brazil
+Bactrogyna prominens Millidge, 1991 | Chile
+Bathyphantes fissidens Simon, 1902 | Argentina
+Bathyphantes lennoxensis Simon, 1902 | Argentina
+Catacercus fuegianus (Tullgren, 1901) | Chile
+Cautinella minuta Millidge, 1985 | Chile
+Ceraticelus nigripes Bryant, 1940 | Cuba
+Ceraticelus paludigena Crosby & Bishop, 1925 | USA, Dominican Rep.
+Ceraticelus tumidus Bryant, 1940 | Cuba
+Ceratinopsis guerrerensis Gertsch & Davis, 1937 | Mexico
+Ceratinopsis munda (O. Pickard-Cambridge, 1896) | Guatemala
+Ceratinopsis rosea Banks, 1898 | Mexico
+Cryptolinyphia sola Millidge, 1991 | Colombia
+Ctenophysis chilensis Millidge, 1985 | Chile
+Diechomma exiguum (Millidge, 1991) | Colombia
+Diechomma pretiosum Millidge, 1991 | Colombia
+Diplothyron ballesterosi Silva-Moreira & Hormiga, 2022 | Mexico
+Diplothyron chiapasius (Gertsch & Davis, 1946) | Mexico, Honduras
+Diplothyron dianae Silva-Moreira & Hormiga, 2022 | Costa Rica, Panama
+Diplothyron fuscus Millidge, 1991 | Mexico, Costa Rica, Panama, Colombia, Venezuela
+Diplothyron linguatulus (F. O. Pickard-Cambridge, 1902) | Mexico, Guatemala
+Diplothyron monteverde Silva-Moreira & Hormiga, 2022 | Costa Rica
+Diplothyron nigritus (F. O. Pickard-Cambridge, 1902) | Mexico, Guatemala, Nicaragua, Costa Rica, Panama
+Diplothyron nubilosus Silva-Moreira & Hormiga, 2022 | Costa Rica, Panama
+Diplothyron sandrae Silva-Moreira & Hormiga, 2022 | Costa Rica
+Diplothyron simplicata (F. O. Pickard-Cambridge, 1902) | Guatemala, Costa Rica, Panama
+Diplothyron solitarius Silva-Moreira & Hormiga, 2022 | Guatemala
+Diplothyron trifalcatus (F. O. Pickard-Cambridge, 1902) | Mexico, Guatemala, Nicaragua, Costa Rica, Panama
+Dolabritor ascifer Millidge, 1991 | Colombia
+Dolabritor spineus Millidge, 1991 | Colombia
+Dubiaranea abjecta Millidge, 1991 | Ecuador, Peru
+Dubiaranea abundans Millidge, 1991 | Peru
+Dubiaranea affinis Millidge, 1991 | Ecuador
+Dubiaranea albodorsata Millidge, 1991 | Colombia
+Dubiaranea albolineata Millidge, 1991 | Peru
+Dubiaranea amoena Millidge, 1991 | Peru
+Dubiaranea argentata Millidge, 1991 | Bolivia
+Dubiaranea argenteovittata Mello-Leitão, 1943 | Brazil
+Dubiaranea atra Millidge, 1991 | Bolivia
+Dubiaranea atriceps Millidge, 1991 | Peru
+Dubiaranea atripalpis Millidge, 1991 | Venezuela
+Dubiaranea atrolineata Millidge, 1991 | Colombia
+Dubiaranea aureola Millidge, 1991 | Peru
+Dubiaranea bacata Millidge, 1991 | Peru
+Dubiaranea brevis Millidge, 1991 | Bolivia
+Dubiaranea caeca Millidge, 1991 | Venezuela
+Dubiaranea caledonica (Millidge, 1985) | Chile
+Dubiaranea castanea Millidge, 1991 | Peru
+Dubiaranea cekalovici (Millidge, 1985) | Chile
+Dubiaranea cerea (Millidge, 1985) | Chile
+Dubiaranea colombiana Millidge, 1991 | Colombia
+Dubiaranea concors Millidge, 1991 | Colombia
+Dubiaranea congruens Millidge, 1991 | Ecuador
+Dubiaranea crebra Millidge, 1991 | Colombia, Venezuela, Ecuador, Peru
+Dubiaranea decora Millidge, 1991 | Peru
+Dubiaranea decurtata Millidge, 1991 | Bolivia
+Dubiaranea difficilis (Mello-Leitão, 1944) | Argentina
+Dubiaranea discolor Millidge, 1991 | Colombia
+Dubiaranea distincta (Nicolet, 1849) | Chile
+Dubiaranea distracta Millidge, 1991 | Colombia
+Dubiaranea elegans Millidge, 1991 | Peru
+Dubiaranea fagicola Millidge, 1991 | Chile
+Dubiaranea falcata (Millidge, 1985) | Chile
+Dubiaranea festiva (Millidge, 1985) | Chile
+Dubiaranea fruticola Millidge, 1991 | Peru
+Dubiaranea fulgens (Millidge, 1985) | Chile
+Dubiaranea fulvolineata Millidge, 1991 | Peru
+Dubiaranea furva Millidge, 1991 | Peru
+Dubiaranea fusca Millidge, 1991 | Peru
+Dubiaranea gilva Millidge, 1991 | Colombia
+Dubiaranea gloriosa Millidge, 1991 | Colombia
+Dubiaranea grandicula Millidge, 1991 | Peru
+Dubiaranea gregalis Millidge, 1991 | Peru
+Dubiaranea habilis Millidge, 1991 | Ecuador
+Dubiaranea inquilina (Millidge, 1985) | Brazil
+Dubiaranea insignita Millidge, 1991 | Peru, Bolivia
+Dubiaranea insulana Millidge, 1991 | Chile (Juan Fernandez Is.)
+Dubiaranea insulsa Millidge, 1991 | Ecuador
+Dubiaranea lepida Millidge, 1991 | Peru
+Dubiaranea levii Millidge, 1991 | Brazil
+Dubiaranea longa Millidge, 1991 | Peru
+Dubiaranea longiscapa (Millidge, 1985) | Chile
+Dubiaranea luctuosa Millidge, 1991 | Peru
+Dubiaranea lugubris Millidge, 1991 | Ecuador
+Dubiaranea maculata (Millidge, 1985) | Chile
+Dubiaranea magatama Cajade, Hagopián & Rodrigues, 2024 | Brazil, Uruguay
+Dubiaranea manufera (Millidge, 1985) | Chile
+Dubiaranea margaritata Millidge, 1991 | Colombia, Venezuela
+Dubiaranea media Millidge, 1991 | Venezuela
+Dubiaranea mediocris Millidge, 1991 | Peru
+Dubiaranea melanocephala Millidge, 1991 | Peru
+Dubiaranea melica Millidge, 1991 | Peru
+Dubiaranea mirabilis Millidge, 1991 | Ecuador
+Dubiaranea modica Millidge, 1991 | Ecuador
+Dubiaranea morata Millidge, 1991 | Ecuador
+Dubiaranea nivea Millidge, 1991 | Bolivia
+Dubiaranea opaca Millidge, 1991 | Peru
+Dubiaranea orba Millidge, 1991 | Ecuador
+Dubiaranea ornata Millidge, 1991 | Colombia
+Dubiaranea penai (Millidge, 1985) | Chile
+Dubiaranea persimilis Millidge, 1991 | Ecuador
+Dubiaranea procera Millidge, 1991 | Peru
+Dubiaranea propinquua (Millidge, 1985) | Chile
+Dubiaranea propria Millidge, 1991 | Colombia
+Dubiaranea proxima Millidge, 1991 | Ecuador
+Dubiaranea pulchra Millidge, 1991 | Venezuela
+Dubiaranea pullata Millidge, 1991 | Peru
+Dubiaranea remota Millidge, 1991 | Argentina
+Dubiaranea rufula Millidge, 1991 | Peru
+Dubiaranea saucia Millidge, 1991 | Brazil
+Dubiaranea setigera Millidge, 1991 | Colombia
+Dubiaranea signifera Millidge, 1991 | Bolivia
+Dubiaranea silvae Millidge, 1991 | Peru
+Dubiaranea silvicola Millidge, 1991 | Colombia
+Dubiaranea similis Millidge, 1991 | Chile
+Dubiaranea solita Millidge, 1991 | Colombia
+Dubiaranea speciosa Millidge, 1991 | Peru
+Dubiaranea stellata (Millidge, 1985) | Chile
+Dubiaranea subtilis (Keyserling, 1886) | Peru
+Dubiaranea teres Millidge, 1991 | Ecuador
+Dubiaranea tridentata Millidge, 1993 | Peru
+Dubiaranea tristis (Mello-Leitão, 1941) | Argentina
+Dubiaranea truncata Millidge, 1991 | Peru
+Dubiaranea turbidula (Keyserling, 1886) | Brazil, Peru
+Dubiaranea usitata Millidge, 1991 | Colombia
+Dubiaranea varia Millidge, 1991 | Peru
+Dubiaranea variegata Millidge, 1991 | Colombia
+Dubiaranea versicolor Millidge, 1991 | Colombia, Ecuador, Peru
+Dubiaranea veterana Millidge, 1991 | Ecuador
+Dubiaranea vetusta Millidge, 1991 | Ecuador
+Epiwubana jucunda Millidge, 1991 | Chile
+Eridantes diodontos Prentice & Redak, 2013 | USA, Mexico
+Erigone antarctica Simon, 1884 | Chile
+Erigone antegona Chickering, 1970 | Panama
+Erigone aptuna Chickering, 1970 | Panama
+Erigone barrowsi Crosby & Bishop, 1928 | USA, Mexico
+Erigone bereta Chickering, 1970 | Panama
+Erigone clavipalpis Millidge, 1991 | Peru
+Erigone digena Chickering, 1970 | Panama, Jamaica, Puerto Rico
+Erigone dipona Chickering, 1970 | Panama
+Erigone fellita Keyserling, 1886 | Peru
+Erigone fluminea Millidge, 1991 | Venezuela
+Erigone miniata Baert, 1990 | Ecuador (Galapagos Is.)
+Erigone monterreyensis Gertsch & Davis, 1937 | Mexico
+Erigone poeyi Simon, 1898 | St. Vincent
+Erigone tamazunchalensis Gertsch & Davis, 1937 | Mexico
+Erigone tepena Chickering, 1970 | Jamaica
+Erigone tolucana Gertsch & Davis, 1937 | Mexico
+Erigone uliginosa Millidge, 1991 | Peru
+Erigone watertoni Simon, 1898 | St. Vincent
+Erigone zabluta Keyserling, 1886 | Peru
+Eulaira hidalgoana Gertsch & Davis, 1937 | Mexico
+Eurymorion insigne (Millidge, 1991) | Brazil
+Eurymorion mourai Rodrigues & Ott, 2010 | Brazil
+Eurymorion murici Rodrigues & Ott, 2010 | Brazil
+Eurymorion nobile (Millidge, 1991) | Brazil
+Eurymorion triunfo Rodrigues & Ott, 2010 | Bolivia, Brazil
+Fissiscapus attercop Miller, 2007 | Ecuador
+Fissiscapus fractus Millidge, 1991 | Colombia
+Fissiscapus pusillus Millidge, 1991 | Colombia
+Florinda coccinea (Hentz, 1850) | USA, Mexico, Caribbean
+Floronia annulipes Berland, 1913 | Ecuador
+Frontinella bella Bryant, 1948 | Hispaniola
+Frontinella huachuca Gertsch & Davis, 1946 | USA, Mexico
+Frontinella laeta (O. Pickard-Cambridge, 1898) | Mexico
+Frontinella omega Kraus, 1955 | El Salvador
+Frontinella potosia Gertsch & Davis, 1946 | Mexico
+Frontinella pyramitela (Walckenaer, 1841) | North, Central America
+Frontinella tibialis F. O. Pickard-Cambridge, 1902 | Mexico
+Gigapassus octarine Miller, 2007 | Argentina
+Gonatoraphis aenea Millidge, 1991 | Colombia
+Gonatoraphis lobata Millidge, 1991 | Colombia
+Gonatoraphis lysistrata Miller, 2007 | Colombia
+Gongylidiellum uschuaiense Simon, 1902 | Argentina
+Grammonota calcarata Bryant, 1948 | Hispaniola
+Grammonota culebra Müller & Heimer, 1991 | Colombia
+Grammonota dalunda Chickering, 1971 | Panama
+Grammonota dubia (O. Pickard-Cambridge, 1898) | Guatemala
+Grammonota electa Bishop & Crosby, 1933 | Costa Rica
+Grammonota emertoni Bryant, 1940 | Cuba
+Grammonota innota Chickering, 1971 | Panama
+Grammonota insana (Banks, 1898) | Mexico
+Grammonota jamaicensis Dondale, 1959 | Jamaica
+Grammonota lutacola Chickering, 1971 | Panama
+Grammonota maculata Banks, 1896 | USA, Costa Rica
+Grammonota nigriceps Banks, 1898 | Mexico
+Grammonota pergrata (O. Pickard-Cambridge, 1894) | Guatemala
+Grammonota samariensis Müller & Heimer, 1991 | Colombia
+Grammonota secata Chickering, 1971 | Panama, Colombia
+Grammonota tabuna Chickering, 1971 | Costa Rica, Panama
+Grammonota teresta Chickering, 1971 | Mexico, Panama, Colombia
+Gravipalpus callosus Millidge, 1991 | Brazil
+Gravipalpus crassus Millidge, 1991 | Peru
+Gravipalpus standifer Miller, 2007 | Argentina
+Habreuresis falcata Millidge, 1991 | Chile
+Habreuresis recta Millidge, 1991 | Chile
+Hypselocara altissimum (Simon, 1894) | Venezuela
+Idionella nesiotes (Crosby, 1924) | USA, Mexico
+Idionella sclerata (Ivie & Barrows, 1935) | USA, Mexico
+Intecymbium antarcticum (Simon, 1895) | Chile, Argentina
+Jalapyphantes cuernavaca Gertsch & Davis, 1946 | Mexico
+Jalapyphantes minoratus Gertsch & Davis, 1946 | Mexico, Dominican Rep. (fossil in amber)
+Jalapyphantes obscurus Millidge, 1991 | Colombia
+Jalapyphantes puebla Gertsch & Davis, 1946 | Mexico
+Jalapyphantes tricolor Silva-Moreira & Hormiga, 2021 | Mexico
+Juanfernandezia melanocephala (Millidge, 1991) | Chile (Juan Fernandez Is.)
+Labicymbium ambiguum Millidge, 1991 | Colombia
+Labicymbium auctum Millidge, 1991 | Colombia
+Labicymbium avium Millidge, 1991 | Ecuador
+Labicymbium breve Millidge, 1991 | Colombia
+Labicymbium cognatum Millidge, 1991 | Peru
+Labicymbium cordiforme Millidge, 1991 | Colombia
+Labicymbium curitiba Rodrigues, 2008 | Brazil
+Labicymbium dentichele Millidge, 1991 | Peru
+Labicymbium exiguum Millidge, 1991 | Colombia
+Labicymbium fuscum Millidge, 1991 | Colombia
+Labicymbium jucundum Millidge, 1991 | Colombia
+Labicymbium majus Millidge, 1991 | Colombia
+Labicymbium montanum Millidge, 1991 | Venezuela
+Labicymbium nigrum Millidge, 1991 | Colombia
+Labicymbium opacum Millidge, 1991 | Colombia
+Labicymbium otti Rodrigues, 2008 | Brazil
+Labicymbium rancho Ott & Lise, 1997 | Brazil
+Labicymbium rusticulum (Keyserling, 1891) | Brazil
+Labicymbium sturmi Millidge, 1991 | Colombia
+Labicymbium sublestum Millidge, 1991 | Colombia, Ecuador
+Laminacauda aluminensis Millidge, 1991 | Argentina
+Laminacauda amabilis (Keyserling, 1886) | Peru
+Laminacauda ansoni Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda argentinensis Millidge, 1985 | Argentina
+Laminacauda baerti Miller, 2007 | Panama, Colombia, Galapagos Is.
+Laminacauda boliviensis Millidge, 1985 | Bolivia
+Laminacauda cognata Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda dentichelis (Berland, 1913) | Ecuador
+Laminacauda diffusa Millidge, 1985 | Chile, Argentina, Falkland Is.
+Laminacauda dysphorica (Keyserling, 1886) | Peru, Bolivia
+Laminacauda expers Millidge, 1991 | Peru
+Laminacauda fuegiana (Tullgren, 1901) | Chile, Falkland Is.
+Laminacauda gigas Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda grata Millidge, 1991 | Colombia
+Laminacauda magna Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda malkini Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda montevidensis (Keyserling, 1878) | Brazil, Uruguay, Argentina
+Laminacauda monticola Millidge, 1985 | Bolivia
+Laminacauda nana Millidge, 1991 | Chile
+Laminacauda newtoni Millidge, 1985 | Chile, Argentina
+Laminacauda orina (Chamberlin, 1916) | Peru
+Laminacauda pacifica (Berland, 1924) | Chile (Juan Fernandez Is.)
+Laminacauda parvipalpis Millidge, 1985 | Chile
+Laminacauda peruensis Millidge, 1985 | Peru
+Laminacauda plagiata (Tullgren, 1901) | Chile, Argentina, Falkland Is.
+Laminacauda propinqua Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda rubens Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda sacra Millidge, 1991 | Bolivia
+Laminacauda salsa Millidge, 1991 | Chile
+Laminacauda suavis Millidge, 1991 | Colombia
+Laminacauda sublimis Millidge, 1991 | Peru
+Laminacauda thayerae Millidge, 1985 | Chile
+Laminacauda tuberosa Millidge, 1991 | Chile (Juan Fernandez Is.)
+Laminacauda tucumani Millidge, 1991 | Argentina
+Laminacauda vicana (Keyserling, 1886) | Peru
+Laminacauda villagra Millidge, 1991 | Chile (Juan Fernandez Is.)
+Lepthyphantes fernandezi Berland, 1924 | Chile (Juan Fernandez Is.)
+Lepthyphantes microserratus Petrunkevitch, 1930 | Puerto Rico
+Lepthyphantes noronhensis Rodrigues, Brescovit & Freitas, 2008 | Brazil
+Linyphantes tragicus (Banks, 1898) | Mexico
+Linyphia armata (Keyserling, 1891) | Brazil
+Linyphia bicuspis (F. O. Pickard-Cambridge, 1902) | Mexico
+Linyphia bifasciata (F. O. Pickard-Cambridge, 1902) | Costa Rica
+Linyphia bisignata (Banks, 1909) | Costa Rica
+Linyphia calcarifera (Keyserling, 1886) | Panama, Colombia
+Linyphia clara (Keyserling, 1891) | Brazil
+Linyphia confinis O. Pickard-Cambridge, 1902 | Guatemala
+Linyphia cylindrata (Keyserling, 1891) | Brazil
+Linyphia decorata (Keyserling, 1891) | Brazil
+Linyphia duplicata (F. O. Pickard-Cambridge, 1902) | Mexico, Guatemala
+Linyphia eiseni Banks, 1898 | Mexico
+Linyphia falculifera (F. O. Pickard-Cambridge, 1902) | Costa Rica
+Linyphia ferentaria (Keyserling, 1886) | Peru
+Linyphia horaea (Keyserling, 1886) | Colombia
+Linyphia hospita (Keyserling, 1886) | Colombia
+Linyphia lambda (F. O. Pickard-Cambridge, 1902) | Guatemala
+Linyphia lehmanni Simon, 1903 | Argentina
+Linyphia leucosternon White, 1841 | Brazil
+Linyphia limatula Simon, 1904 | Chile
+Linyphia limbata (F. O. Pickard-Cambridge, 1902) | Mexico, Guatemala
+Linyphia longiceps (Keyserling, 1891) | Brazil
+Linyphia longispina (F. O. Pickard-Cambridge, 1902) | Mexico
+Linyphia ludibunda (Keyserling, 1886) | Peru
+Linyphia lurida (Keyserling, 1886) | Colombia
+Linyphia maculosa (Banks, 1909) | Costa Rica
+Linyphia melanoprocta Mello-Leitão, 1944 | Argentina
+Linyphia monticolens Roewer, 1942 | Peru
+Linyphia obscurella Roewer, 1942 | Brazil
+Linyphia octopunctata (Chamberlin & Ivie, 1936) | Panama
+Linyphia oligochronia (Keyserling, 1886) | Peru
+Linyphia peruana (Keyserling, 1886) | Peru
+Linyphia postica (Banks, 1909) | Costa Rica
+Linyphia rubella Keyserling, 1886 | Peru
+Linyphia rubriceps (Keyserling, 1891) | Brazil
+Linyphia rustica (F. O. Pickard-Cambridge, 1902) | Mexico
+Linyphia tubernaculofaciens Hingston, 1932 | Guyana
+Linyphia virgata (Keyserling, 1886) | Peru
+Lomaita darlingtoni Bryant, 1948 | Dominican Rep.
+Lygarina aurantiaca (Simon, 1905) | Argentina
+Lygarina caracasana Simon, 1894 | Venezuela
+Lygarina finitima Millidge, 1991 | Peru
+Lygarina nitida Simon, 1894 | Brazil
+Lygarina silvicola Millidge, 1991 | Brazil
+Malkinola insulanus (Millidge, 1991) | Chile (Juan Fernandez Is.)
+Maro nearcticus Dondale & Buckle, 2001 | Canada, USA, Mexico
+Mermessus agressus (Gertsch & Davis, 1937) | USA, Mexico
+Mermessus annamae (Gertsch & Davis, 1937) | Mexico
+Mermessus antraeus (Crosby, 1926) | USA, Mexico
+Mermessus avius (Millidge, 1987) | Mexico
+Mermessus caelebs (Millidge, 1987) | Panama, Venezuela
+Mermessus coahuilanus (Gertsch & Davis, 1940) | USA, Mexico
+Mermessus cognatus (Millidge, 1987) | Mexico to Costa Rica
+Mermessus colimus (Millidge, 1987) | Mexico
+Mermessus comes (Millidge, 1987) | Mexico
+Mermessus conexus (Millidge, 1987) | Mexico
+Mermessus conjunctus (Millidge, 1991) | Brazil
+Mermessus dentiger O. Pickard-Cambridge, 1899 | USA to Guatemala, Caribbean
+Mermessus dentimandibulatus (Keyserling, 1886) | Colombia, Peru
+Mermessus dominicus (Millidge, 1987) | Dominican Rep.
+Mermessus dopainus (Chamberlin & Ivie, 1936) | Mexico
+Mermessus estrellae (Millidge, 1987) | Mexico
+Mermessus facetus (Millidge, 1987) | Costa Rica
+Mermessus formosus (Millidge, 1987) | Mexico
+Mermessus fractus (Millidge, 1987) | Costa Rica
+Mermessus fuscus (Millidge, 1987) | Mexico
+Mermessus hebes (Millidge, 1991) | Venezuela
+Mermessus hospita (Millidge, 1987) | Mexico
+Mermessus ignobilis (Millidge, 1987) | Mexico
+Mermessus imago (Millidge, 1987) | Mexico
+Mermessus insulsus (Millidge, 1991) | Peru
+Mermessus leoninus (Millidge, 1987) | Mexico
+Mermessus libanus (Millidge, 1987) | Mexico
+Mermessus maculatus (Banks, 1892) | Russia (Commander Is.), Canada to Guatemala
+Mermessus medius (Millidge, 1987) | Mexico
+Mermessus merus (Millidge, 1987) | Mexico
+Mermessus montanus (Millidge, 1987) | Mexico
+Mermessus monticola (Millidge, 1987) | Mexico
+Mermessus moratus (Millidge, 1987) | Mexico
+Mermessus niger (Millidge, 1991) | Colombia
+Mermessus obscurus (Millidge, 1991) | Colombia
+Mermessus orbus (Millidge, 1987) | Mexico
+Mermessus ornatus (Millidge, 1987) | Mexico
+Mermessus perplexus (Millidge, 1987) | Mexico
+Mermessus persimilis (Millidge, 1987) | Mexico
+Mermessus pinicola (Millidge, 1987) | Mexico
+Mermessus probus (Millidge, 1987) | Mexico
+Mermessus proximus (Keyserling, 1886) | Peru
+Mermessus rapidulus (Bishop & Crosby, 1938) | Nicaragua, Costa Rica, Panama
+Mermessus singularis (Millidge, 1987) | Mexico
+Mermessus solus (Millidge, 1987) | Mexico
+Mermessus subantillanus (Millidge, 1987) | Guadeloupe
+Mermessus tepejicanus (Gertsch & Davis, 1937) | Mexico
+Mermessus tlaxcalanus (Gertsch & Davis, 1937) | Mexico
+Mermessus tridentatus (Emerton, 1882) | USA, Canada, Puerto Rico
+Microneta disceptra Crosby & Bishop, 1929 | Peru
+Microneta semiatra (Keyserling, 1886) | Brazil
+Microneta sima Chamberlin & Ivie, 1936 | Mexico
+Microneta varia Simon, 1898 | St. Vincent
+Microneta watona Chamberlin & Ivie, 1936 | Mexico
+Microplanus mollis Millidge, 1991 | Colombia
+Microplanus odin Miller, 2007 | Panama
+Millidgella trisetosa (Millidge, 1985) | Chile, Argentina
+Minyriolus australis Simon, 1902 | Argentina
+Moyosi chumota Miller, 2007 | Guyana
+Moyosi prativaga (Keyserling, 1886) | Brazil, Argentina
+Moyosi rugosa (Millidge, 1991) | Argentina
+Myrmecomelix leucippus Miller, 2007 | Peru
+Myrmecomelix pulcher (Millidge, 1991) | Ecuador, Peru
+Nasoona coronata (Simon, 1894) | Venezuela
+Neocautinella neoterica (Keyserling, 1886) | Ecuador, Peru, Bolivia, Galapagos Is.
+Neomaso abnormis Millidge, 1991 | Chile
+Neomaso aequabilis Millidge, 1991 | Argentina
+Neomaso angusticeps Millidge, 1985 | Chile
+Neomaso articeps Millidge, 1991 | Chile
+Neomaso arundicola Millidge, 1991 | Brazil
+Neomaso bilobatus (Tullgren, 1901) | Chile
+Neomaso claggi Forster, 1970 | Chile, South Georgia
+Neomaso damocles Miller, 2007 | Brazil, Argentina
+Neomaso defoei (F. O. Pickard-Cambridge, 1899) | Chile (Juan Fernandez Is.)
+Neomaso fagicola Millidge, 1985 | Chile
+Neomaso fluminensis Millidge, 1991 | Chile
+Neomaso insperatus Millidge, 1991 | Argentina
+Neomaso insulanus Millidge, 1991 | Chile (Juan Fernandez Is.)
+Neomaso minimus Millidge, 1985 | Chile
+Neomaso parvus Millidge, 1985 | Chile
+Neomaso patagonicus (Tullgren, 1901) | Chile, Argentina
+Neomaso peltatus Millidge, 1985 | Chile
+Neomaso pollicatus (Tullgren, 1901) | Chile, Argentina, Falkland Is.
+Neomaso scutatus Millidge, 1985 | Chile
+Neomaso setiger Millidge, 1991 | Chile
+Neomaso vicinus Millidge, 1991 | Argentina
+Notholepthyphantes australis (Tullgren, 1901) | Chile
+Notholepthyphantes erythrocerus (Simon, 1902) | Chile
+Notiohyphantes excelsus (Keyserling, 1886) | Mexico to Peru, Brazil, Galapagos Is.
+Notiohyphantes laudatus Millidge, 1991 | Brazil
+Notiohyphantes meridionalis (Tullgren, 1901) | Chile
+Notiomaso barbatus (Tullgren, 1901) | Chile, Argentina, Falkland Is.
+Notiomaso exonychus Miller, 2007 | Chile
+Notolinga fuegiana (Simon, 1902) | Argentina, Falkland Is.
+Novafrontina bipunctata (Keyserling, 1886) | Ecuador, Peru
+Novafrontina patens Millidge, 1991 | Colombia
+Novafrontina uncata (F. O. Pickard-Cambridge, 1902) | Mexico to Brazil
+Onychembolus anceps Millidge, 1991 | Chile
+Onychembolus subalpinus Millidge, 1985 | Chile, Argentina
+Orfeo desolatus (Keyserling, 1886) | Brazil
+Orfeo jobim Miller, 2007 | Brazil
+Paraletes pogo Miller, 2007 | Peru
+Paraletes timidus Millidge, 1991 | Brazil
+Patagoneta antarctica (Tullgren, 1901) | Chile
+Pocobletus bivittatus Simon, 1898 | St. Vincent
+Pocobletus conspicuus (Millidge, 1991) | Peru, Brazil
+Pocobletus coroniger Simon, 1894 | USA, Mexico, Nicaragua, Costa Rica, Panama, Venezuela 
+Pocobletus eberhardi (Rodrigues, Lemos & Brescovit, 2013) | Brazil
+Pocobletus girotii (Lemos & Brescovit, 2013) | Brazil
+Pocobletus medonho (Lemos & Brescovit, 2013) | Brazil
+Pocobletus nogueirai (Lemos & Brescovit, 2013) | Brazil
+Pocobletus pallidus (Millidge, 1991) | Venezuela
+Pocobletus phoenix (Lemos & Brescovit, 2013) | Brazil
+Pocobletus proba (Millidge, 1991) | Bolivia
+Pocobletus ribeiroi (Lemos & Brescovit, 2013) | Brazil
+Pocobletus una (Lemos & Brescovit, 2013) | Brazil
+Pocobletus versicolor (Millidge, 1991) | Colombia, Ecuador
+Primerigonina australis Wunderlich, 1995 | Panama
+Pseudotyphistes biriva Rodrigues & Ott, 2007 | Brazil
+Pseudotyphistes cambara (Ott & Lise, 1997) | Brazil
+Pseudotyphistes cristatus (Ott & Lise, 1997) | Brazil
+Pseudotyphistes deinceps Cajade, 2023 | Uruguay
+Pseudotyphistes ludibundus (Keyserling, 1886) | Peru
+Pseudotyphistes pallidus (Millidge, 1991) | Argentina
+Pseudotyphistes pennatus Brignoli, 1972 | Uruguay
+Pseudotyphistes vulpiscaudatus (Ott & Lise, 1997) | Brazil
+Psilocymbium acanthodes Miller, 2007 | Argentina
+Psilocymbium antonina Rodrigues & Ott, 2010 | Brazil
+Psilocymbium defloccatum (Keyserling, 1886) | Peru
+Psilocymbium incertum Millidge, 1991 | Colombia
+Psilocymbium lineatum (Millidge, 1991) | Brazil, Argentina
+Psilocymbium pilifrons Millidge, 1991 | Colombia
+Psilocymbium tuberosum Millidge, 1991 | Brazil
+Rhabdogyna chiloensis Millidge, 1985 | Chile
+Rhabdogyna patagonica (Tullgren, 1901) | Chile
+Scolecura cambara Rodrigues, 2005 | Brazil
+Scolecura cognata Millidge, 1991 | Colombia
+Scolecura parilis Millidge, 1991 | Brazil, Argentina
+Scolecura propinqua Millidge, 1991 | Argentina
+Selenyphantes costaricensis Silva-Moreira & Hormiga, 2021 | Costa Rica
+Selenyphantes gaimani Silva-Moreira & Hormiga, 2021 | Mexico
+Selenyphantes iztactepetl Silva-Moreira & Hormiga, 2021 | Mexico
+Selenyphantes longispinosus (O. Pickard-Cambridge, 1896) | Mexico, Guatemala
+Selenyphantes orizabae Silva-Moreira & Hormiga, 2021 | Mexico, Guatemala
+Selenyphantes volcanicus Silva-Moreira & Hormiga, 2021 | Mexico
+Smermisia caracasana Simon, 1894 | Venezuela
+Smermisia esperanzae (Tullgren, 1901) | Chile
+Smermisia holdridgi Miller, 2007 | Costa Rica
+Smermisia parvoris Miller, 2007 | Brazil, Argentina
+Smermisia vicosana (Bishop & Crosby, 1938) | Brazil, Argentina
+Spanioplanus mitis Millidge, 1991 | Venezuela, Peru
+Sphecozone altehabitans (Keyserling, 1886) | Peru
+Sphecozone alticeps Millidge, 1991 | Colombia
+Sphecozone araeonciformis (Simon, 1895) | Argentina
+Sphecozone bicolor (Nicolet, 1849) | Chile, Argentina
+Sphecozone capitata Millidge, 1991 | Peru
+Sphecozone castanea (Millidge, 1991) | Brazil
+Sphecozone corniculans Millidge, 1991 | Colombia
+Sphecozone cornuta Millidge, 1991 | Argentina
+Sphecozone crassa (Millidge, 1991) | Colombia, Brazil
+Sphecozone crinita Millidge, 1991 | Ecuador
+Sphecozone diversicolor (Keyserling, 1886) | Brazil, Argentina
+Sphecozone fastibilis (Keyserling, 1886) | Brazil, Argentina
+Sphecozone formosa (Millidge, 1991) | Ecuador
+Sphecozone gravis (Millidge, 1991) | Bolivia
+Sphecozone ignigena (Keyserling, 1886) | Brazil, Argentina
+Sphecozone labiata (Keyserling, 1886) | Brazil
+Sphecozone lobata Millidge, 1991 | Chile (Juan Fernandez Is.)
+Sphecozone longipes (Strand, 1908) | Peru
+Sphecozone melanocephala (Millidge, 1991) | Brazil
+Sphecozone modesta (Nicolet, 1849) | Bolivia, Brazil, Chile, Argentina
+Sphecozone modica Millidge, 1991 | Argentina
+Sphecozone nigripes Millidge, 1991 | Peru
+Sphecozone nitens Millidge, 1991 | Ecuador, Peru
+Sphecozone niwina (Chamberlin, 1916) | Peru, Bolivia, Chile
+Sphecozone novaeteutoniae (Baert, 1987) | Brazil
+Sphecozone personata (Simon, 1894) | Brazil
+Sphecozone rostrata Millidge, 1991 | Brazil
+Sphecozone rubicunda (Keyserling, 1886) | Peru
+Sphecozone spadicaria (Simon, 1894) | Colombia, Trinidad, Venezuela
+Sphecozone tumidosa (Keyserling, 1886) | Brazil, Argentina
+Sphecozone varia Millidge, 1991 | Peru
+Sphecozone venialis (Keyserling, 1886) | Brazil, Argentina
+Spirembolus levis Millidge, 1980 | USA, Mexico
+Sthelota albonotata (Keyserling, 1886) | Panama
+Sthelota sana (O. Pickard-Cambridge, 1898) | Guatemala
+Stictonanus exiguus Millidge, 1991 | Chile
+Stictonanus paucus Millidge, 1991 | Chile
+Tennesseellum gollum Dupérré, 2013 | USA, Mexico
+Toltecaria antricola (Millidge, 1984) | Mexico
+Totua gracilipes Keyserling, 1891 | Brazil
+Triplogyna ignitula (Keyserling, 1886) | Brazil, Argentina
+Triplogyna major Millidge, 1991 | Colombia
+Turbinellina nigra (Millidge, 1991) | Chile, Argentina
+Tutaibo debilipes Chamberlin, 1916 | Peru
+Tutaibo formosus Millidge, 1991 | Peru
+Tutaibo fucosus (Keyserling, 1891) | Brazil
+Tutaibo niger (O. Pickard-Cambridge, 1882) | Brazil
+Tutaibo phoeniceus (O. Pickard-Cambridge, 1894) | Mexico, Guatemala
+Tutaibo pullus Millidge, 1991 | Colombia
+Tutaibo rubescens Millidge, 1991 | Colombia
+Tutaibo rusticellus (Keyserling, 1891) | Brazil
+Tutaibo velox (Keyserling, 1886) | Brazil
+Vesicapalpus serranus Rodrigues & Ott, 2007 | Brazil
+Vesicapalpus simplex Millidge, 1991 | Brazil, Argentina
+Walckenaeria aenea Millidge, 1983 | Mexico
+Walckenaeria arcana Millidge, 1983 | Mexico
+Walckenaeria aurata Millidge, 1983 | Mexico
+Walckenaeria crocea Millidge, 1983 | Mexico
+Walckenaeria crosbyi (Fage, 1938) | Costa Rica
+Walckenaeria discolor Millidge, 1983 | Mexico
+Walckenaeria faceta Millidge, 1983 | Mexico
+Walckenaeria gertschi Millidge, 1983 | Mexico
+Walckenaeria intoleranda (Keyserling, 1886) | Costa Rica, Panama, Colombia
+Walckenaeria iviei Millidge, 1983 | Mexico
+Walckenaeria mexicana Millidge, 1983 | Mexico
+Walckenaeria orghidani Georgescu, 1977 | Cuba
+Walckenaeria rufula Millidge, 1983 | Mexico
+Walckenaeria rutilis Millidge, 1983 | Mexico
+Xim trenzado Ibarra-Núñez, Chamé-Vázquez & Maya-Morales, 2021 | Mexico
+Zilephus granulosus Simon, 1902 | Argentina
