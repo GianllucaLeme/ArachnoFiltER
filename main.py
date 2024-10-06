@@ -35,7 +35,7 @@ def scroll_element(browser, element):
 
 
 # Funções para Web Scraping
-def AracnoTrAC(lista):
+def ArachnoTrAC(lista):
     browser.get("https://sites.google.com/view/arachnotrac/neotropical-spiders?authuser=0")
     browser.maximize_window()
     
@@ -56,7 +56,7 @@ def AracnoTrAC(lista):
             primeira_palavra = line.strip().split()[0]  # Pega a primeira palavra
             lista.append(primeira_palavra)
 
-    return sorted(set(lista))
+    return lista
 
 def iNaturalist(lista):
     browser.get("https://www.inaturalist.org/taxa/495875-Erigoninae#taxonomy-tab")
@@ -73,13 +73,15 @@ def iNaturalist(lista):
             segunda_palavra = line.strip().split()[1]
             lista.append(segunda_palavra)
 
-    return sorted(set(lista))
+    return lista
 
-lista_final_AracnoTrAC = []
-lista_final_iNat = []
+lista_ArachnoTrAC = []
+lista_iNat = []
 
-print(AracnoTrAC(lista_final_AracnoTrAC))
+# Preenchimento das listas
+ArachnoTrAC(lista_ArachnoTrAC)
+iNaturalist(lista_iNat)
 
-print('\n')
-
-print(iNaturalist(lista_final_iNat))
+# Análise de itens em comum (Nesse commit, entre os **linifídeos da América do Sul** e os **erigoníneos do mundo todo**)
+lista_intersecao = set(lista_ArachnoTrAC).intersection(set(lista_iNat))
+print(sorted(lista_intersecao))

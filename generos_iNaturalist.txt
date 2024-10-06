@@ -115,7 +115,7 @@ Gênero Eulaira 1
 Gênero Evansia 3
 Gênero Fissiscapus 0
 Gênero Floricomus 3
-Gênero Florinda 3.328
+Gênero Florinda 3.329
 Gênero Frederickus 12
 Gênero Gibothorax 0
 Gênero Gigapassus 0
