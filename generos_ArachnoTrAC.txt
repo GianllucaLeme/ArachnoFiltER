@@ -13,7 +13,7 @@ Agyneta disjuncta (Millidge, 1991) | Colombia
 Agyneta frigida (Millidge, 1991) | Colombia
 Agyneta fusca (Millidge, 1991) | Peru
 Agyneta galapagosensis (Baert, 1990) | Ecuador (Galapagos Is.), Brazil
-Agyneta hum Cajade, Rodrigues & Simó, 2023 | Brazil, Uruguay
+Agyneta hum Cajade, Rodrigues & SimÃ³, 2023 | Brazil, Uruguay
 Agyneta lauta (Millidge, 1991) | Peru
 Agyneta luctuosa (Millidge, 1991) | Venezuela
 Agyneta mediocris (Millidge, 1991) | Colombia
@@ -79,7 +79,7 @@ Dubiaranea albodorsata Millidge, 1991 | Colombia
 Dubiaranea albolineata Millidge, 1991 | Peru
 Dubiaranea amoena Millidge, 1991 | Peru
 Dubiaranea argentata Millidge, 1991 | Bolivia
-Dubiaranea argenteovittata Mello-Leitão, 1943 | Brazil
+Dubiaranea argenteovittata Mello-LeitÃ£o, 1943 | Brazil
 Dubiaranea atra Millidge, 1991 | Bolivia
 Dubiaranea atriceps Millidge, 1991 | Peru
 Dubiaranea atripalpis Millidge, 1991 | Venezuela
@@ -98,7 +98,7 @@ Dubiaranea congruens Millidge, 1991 | Ecuador
 Dubiaranea crebra Millidge, 1991 | Colombia, Venezuela, Ecuador, Peru
 Dubiaranea decora Millidge, 1991 | Peru
 Dubiaranea decurtata Millidge, 1991 | Bolivia
-Dubiaranea difficilis (Mello-Leitão, 1944) | Argentina
+Dubiaranea difficilis (Mello-LeitÃ£o, 1944) | Argentina
 Dubiaranea discolor Millidge, 1991 | Colombia
 Dubiaranea distincta (Nicolet, 1849) | Chile
 Dubiaranea distracta Millidge, 1991 | Colombia
@@ -127,7 +127,7 @@ Dubiaranea longiscapa (Millidge, 1985) | Chile
 Dubiaranea luctuosa Millidge, 1991 | Peru
 Dubiaranea lugubris Millidge, 1991 | Ecuador
 Dubiaranea maculata (Millidge, 1985) | Chile
-Dubiaranea magatama Cajade, Hagopián & Rodrigues, 2024 | Brazil, Uruguay
+Dubiaranea magatama Cajade, HagopiÃ¡n & Rodrigues, 2024 | Brazil, Uruguay
 Dubiaranea manufera (Millidge, 1985) | Chile
 Dubiaranea margaritata Millidge, 1991 | Colombia, Venezuela
 Dubiaranea media Millidge, 1991 | Venezuela
@@ -163,7 +163,7 @@ Dubiaranea stellata (Millidge, 1985) | Chile
 Dubiaranea subtilis (Keyserling, 1886) | Peru
 Dubiaranea teres Millidge, 1991 | Ecuador
 Dubiaranea tridentata Millidge, 1993 | Peru
-Dubiaranea tristis (Mello-Leitão, 1941) | Argentina
+Dubiaranea tristis (Mello-LeitÃ£o, 1941) | Argentina
 Dubiaranea truncata Millidge, 1991 | Peru
 Dubiaranea turbidula (Keyserling, 1886) | Brazil, Peru
 Dubiaranea usitata Millidge, 1991 | Colombia
@@ -217,7 +217,7 @@ Gonatoraphis lobata Millidge, 1991 | Colombia
 Gonatoraphis lysistrata Miller, 2007 | Colombia
 Gongylidiellum uschuaiense Simon, 1902 | Argentina
 Grammonota calcarata Bryant, 1948 | Hispaniola
-Grammonota culebra Müller & Heimer, 1991 | Colombia
+Grammonota culebra MÃ¼ller & Heimer, 1991 | Colombia
 Grammonota dalunda Chickering, 1971 | Panama
 Grammonota dubia (O. Pickard-Cambridge, 1898) | Guatemala
 Grammonota electa Bishop & Crosby, 1933 | Costa Rica
@@ -229,7 +229,7 @@ Grammonota lutacola Chickering, 1971 | Panama
 Grammonota maculata Banks, 1896 | USA, Costa Rica
 Grammonota nigriceps Banks, 1898 | Mexico
 Grammonota pergrata (O. Pickard-Cambridge, 1894) | Guatemala
-Grammonota samariensis Müller & Heimer, 1991 | Colombia
+Grammonota samariensis MÃ¼ller & Heimer, 1991 | Colombia
 Grammonota secata Chickering, 1971 | Panama, Colombia
 Grammonota tabuna Chickering, 1971 | Costa Rica, Panama
 Grammonota teresta Chickering, 1971 | Mexico, Panama, Colombia
@@ -333,7 +333,7 @@ Linyphia longispina (F. O. Pickard-Cambridge, 1902) | Mexico
 Linyphia ludibunda (Keyserling, 1886) | Peru
 Linyphia lurida (Keyserling, 1886) | Colombia
 Linyphia maculosa (Banks, 1909) | Costa Rica
-Linyphia melanoprocta Mello-Leitão, 1944 | Argentina
+Linyphia melanoprocta Mello-LeitÃ£o, 1944 | Argentina
 Linyphia monticolens Roewer, 1942 | Peru
 Linyphia obscurella Roewer, 1942 | Brazil
 Linyphia octopunctata (Chamberlin & Ivie, 1936) | Panama
@@ -541,7 +541,7 @@ Sthelota albonotata (Keyserling, 1886) | Panama
 Sthelota sana (O. Pickard-Cambridge, 1898) | Guatemala
 Stictonanus exiguus Millidge, 1991 | Chile
 Stictonanus paucus Millidge, 1991 | Chile
-Tennesseellum gollum Dupérré, 2013 | USA, Mexico
+Tennesseellum gollum DupÃ©rrÃ©, 2013 | USA, Mexico
 Toltecaria antricola (Millidge, 1984) | Mexico
 Totua gracilipes Keyserling, 1891 | Brazil
 Triplogyna ignitula (Keyserling, 1886) | Brazil, Argentina
@@ -572,5 +572,5 @@ Walckenaeria mexicana Millidge, 1983 | Mexico
 Walckenaeria orghidani Georgescu, 1977 | Cuba
 Walckenaeria rufula Millidge, 1983 | Mexico
 Walckenaeria rutilis Millidge, 1983 | Mexico
-Xim trenzado Ibarra-Núñez, Chamé-Vázquez & Maya-Morales, 2021 | Mexico
+Xim trenzado Ibarra-NÃºÃ±ez, ChamÃ©-VÃ¡zquez & Maya-Morales, 2021 | Mexico
 Zilephus granulosus Simon, 1902 | Argentina

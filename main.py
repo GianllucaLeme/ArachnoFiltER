@@ -1,5 +1,5 @@
 import os
-import time
+import json
 
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
@@ -33,25 +33,29 @@ def scroll_element(browser, element):
     browser.execute_script("arguments[0].scrollIntoView(true);", element)  # Faz scroll até o elemento
     browser.execute_script("arguments[0].click();", element)  # Clica no elemento usando JS
 
-
 # Funções para Web Scraping
 def ArachnoTrAC(lista):
     browser.get("https://sites.google.com/view/arachnotrac/neotropical-spiders?authuser=0")
     browser.maximize_window()
     
     # Procura uma família específica
-    familia = 'LINYPHIIDAE'
-    abrir_familia = element_click(browser, By.XPATH, f"//span[contains(text(), '{familia}')]")
+    familia = 'linyphiidae'
+    abrir_familia = element_click(browser, By.XPATH, f"//span[contains(text(), '{familia.upper()}')]")
     scroll_element(browser, abrir_familia)
 
-    # Abre a lista de gêneros de uma família e a coloca em um txt local
-    lista_path = '//*[@id="h.148f5de7d885156b_250"]/div/div/ul'
-    lista_generos = browser.find_element(By.XPATH, lista_path)
-    with open('generos_ArachnoTrAC.txt', 'w') as file:
+    # Acessa a lista de gêneros de uma dada família e a coloca em um txt local
+    with open('familias_xpath.json', 'r') as file:
+        familias_xpath = json.load(file)
+
+    if familia.upper() in familias_xpath:
+        lista_path = familias_xpath[familia.upper()]
+        lista_generos = browser.find_element(By.XPATH, lista_path)
+        
+    with open('generos_ArachnoTrAC.txt', 'w', encoding='utf-8') as file:
         file.write(lista_generos.text)
 
     # Organiza a lista de gêneros para mostrar apenas os gêneros e em ordem alfabética, evitando repetições
-    with open('generos_ArachnoTrAC.txt', 'r') as file:
+    with open('generos_ArachnoTrAC.txt', 'r', encoding='utf-8') as file:
         for line in file:
             primeira_palavra = line.strip().split()[0]  # Pega a primeira palavra
             lista.append(primeira_palavra)
