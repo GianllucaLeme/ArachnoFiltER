@@ -10,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
-# Função para abrir a janela do navegador APÓS o input do usuário
-def Janela():
+# Função para abrir a janela do navegador somente APÓS o input do usuário
+def janela_hold():
     user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57'
     edge_driver_path = os.path.join(os.getcwd(), 'msedgedriver.exe')
     edge_service = Service(edge_driver_path)
@@ -40,7 +40,7 @@ def scroll_element(browser, element):
 
 # Funções para Web Scraping
 def ArachnoTrAC(lista, familia):
-    browser = Janela()
+    browser = janela_hold()
     browser.get('https://sites.google.com/view/arachnotrac/neotropical-spiders?authuser=0')
     browser.maximize_window()
     
@@ -68,7 +68,7 @@ def ArachnoTrAC(lista, familia):
     return lista
 
 def iNaturalist(lista, taxon):
-    browser = Janela()
+    browser = janela_hold()
     browser.get('https://www.inaturalist.org')
     browser.maximize_window()
 
@@ -118,7 +118,6 @@ def main():
     if familia and taxon:
         lista_intersecao = set(lista_ArachnoTrAC).intersection(set(lista_iNat))
         print('\nItens em comum:', sorted(lista_intersecao) + '\n')
-
 
 if __name__ == '__main__':
     main()
