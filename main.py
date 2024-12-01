@@ -101,10 +101,34 @@ def iNaturalist(lista, taxon):
 
     return lista
 
+def WSC(taxon):
+    browser = janela_hold()
+    browser.get('https://wsc.nmbe.ch/search')
+    browser.maximize_window()
+
+    # Procura um gênero específico
+    search_box = element_present(browser, By.NAME, 'sGenus')
+    search_box.send_keys(taxon)
+
+    search_button = element_click(browser, By.CLASS_NAME, 'ym-fbox-button')
+    search_button.click()
+
+    search_genero = element_present(browser, By.XPATH, f"//div[i[contains(text(), '{taxon}')] and a[contains(text(), 'genus catalog')]][1]")
+    link_genero_catalog = search_genero.find_element(By.XPATH, ".//a[contains(text(), 'genus catalog')]")
+    link_genero_catalog.click()
+
+    species_details = browser.find_elements(By.XPATH, f".//a[strong/i[contains(text(), '{taxon}')]]")
+
+    for i in range(len(species_details)):
+        print(species_details[i].text)
+
+    input()
+
 # Função principal que aborda todo o projeto
 def main():
     # Preenchimento das listas
     familia = input('\nDigite o nome da família: ').strip().upper()
+    
     if familia:
         lista_ArachnoTrAC = []
         ArachnoTrAC(lista_ArachnoTrAC, familia)  # Preenche a lista com dados da família
@@ -117,7 +141,11 @@ def main():
     # Análise de itens em comum
     if familia and taxon:
         lista_intersecao = set(lista_ArachnoTrAC).intersection(set(lista_iNat))
-        print('\nItens em comum:', sorted(lista_intersecao) + '\n')
+        print('\nItens em comum:', sorted(lista_intersecao))
+        print('\n')
 
 if __name__ == '__main__':
-    main()
+    #main()
+
+    genero = input('\nDigite o nome da genero: ').strip().capitalize()
+    WSC(genero)
