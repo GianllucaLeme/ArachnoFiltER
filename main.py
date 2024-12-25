@@ -117,12 +117,15 @@ def WSC(taxon):
     link_genero_catalog = search_genero.find_element(By.XPATH, ".//a[contains(text(), 'genus catalog')]")
     link_genero_catalog.click()
 
-    species_details = browser.find_elements(By.XPATH, f".//a[strong/i[contains(text(), '{taxon}')]]")
+    species_details = browser.find_elements(By.CLASS_NAME, "speciesTitle")
 
-    for i in range(len(species_details)):
-        print(species_details[i].text)
-
-    input()
+    # Escreve a lista de espécies de determinado gênero
+    with open('generos_WSC.txt', 'w', encoding='utf-8') as file:
+        for i in range(len(species_details)):
+            if (i != len(species_details) - 1):
+                file.write(species_details[i].text + '\n')
+            else:
+                file.write(species_details[i].text)
 
 # Função principal que aborda todo o projeto
 def main():
